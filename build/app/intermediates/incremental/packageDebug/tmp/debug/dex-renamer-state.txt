@@ -1,0 +1,4 @@
+#Sun Dec 04 11:23:27 IST 2022
+base.0=D\:\\Flutter Works\\fluttersqflite\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
